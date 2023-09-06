@@ -1,0 +1,27 @@
+
+body{background-color: #DFD2B9;
+}
+.nav-link{
+color:#dfd2b9 ;
+
+}
+
+section{height: 100vh;}
+.navbar-nav{  background-color:#e48b2e;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    }
+    .nav-pills .nav-link.active {
+        background-color: #707d3e; 
+        border-radius: 30px;
+        color: #DFD2B9;
+    }
+    @media screen and (max-width: 990px) {
+        .navbar-nav{  background-color:transparent}
+      }
+
+.bg-paragraph{
+background-color: white;
+
+
+}
