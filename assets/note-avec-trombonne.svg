@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg7050"
+    sodipodi:docname="note avec trombonne.svg"
+    viewBox="0 0 257.91 168.05"
+    version="1.1"
+    inkscape:version="0.48.0 r9654"
+  >
+  <sodipodi:namedview
+      id="base"
+      fit-margin-left="0"
+      inkscape:showpageshadow="false"
+      inkscape:zoom="1.0537548"
+      borderopacity="1.0"
+      inkscape:current-layer="g7133"
+      inkscape:cx="77.907275"
+      inkscape:cy="27.441242"
+      inkscape:window-maximized="0"
+      showgrid="false"
+      fit-margin-right="0"
+      inkscape:document-units="px"
+      bordercolor="#666666"
+      inkscape:window-x="259"
+      inkscape:window-y="94"
+      fit-margin-bottom="0"
+      inkscape:window-width="1065"
+      inkscape:pageopacity="0.0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      inkscape:window-height="743"
+      showborder="false"
+      fit-margin-top="0"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Calque 1"
+      inkscape:groupmode="layer"
+      transform="translate(-243.41 -372.78)"
+    >
+    <g
+        id="g7133"
+      >
+      <g
+          id="g3774"
+          transform="matrix(.83922 0 0 .83922 39.16 60.948)"
+        >
+        <path
+            id="path6381"
+            d="m254.84 388.7-1.8922 179.64 296.56 2.2936-0.71582-184z"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#e6e6e6;stroke-width:2.3832;fill:#e6e6e6"
+            inkscape:connector-curvature="0"
+        />
+        <path
+            id="path5793"
+            sodipodi:nodetypes="ccccc"
+            style="stroke:#000000;stroke-width:2.3832;fill:#ffffff"
+            inkscape:connector-curvature="0"
+            d="m244.57 380.39 0.58353 182.45 298.23 1.5606-2.2984-184.31z"
+        />
+      </g
+      >
+      <path
+          id="path7100"
+          d="m292.21 380.1c-3.8198-9.9747-16.718-8.4838-17.521 1.1178l11.236 53.818c1.7838 5.0185 14.681 5.8736 15.87-3.9248l-7.6784-36.832-2.5529 0.88002 7.504 35.298c0.58629 4.4456-7.4628 8.9568-10.949 2.4343l-10.703-51.315c0.22373-5.4199 8.7427-8.9507 11.892-1.1865z"
+          sodipodi:nodetypes="ccccccccccc"
+          style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;fill:#ffffff"
+          inkscape:connector-curvature="0"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Note with paperclip / note avec trombonne</dc:title
+        >
+        <dc:date
+          >2011-03-22T22:53:19</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/128809/note-with-paperclip--note-avec-trombonne-by-lmproulx</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >lmproulx</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >line art</rdf:li
+            >
+            <rdf:li
+              >note</rdf:li
+            >
+            <rdf:li
+              >paper</rdf:li
+            >
+            <rdf:li
+              >paperclip</rdf:li
+            >
+            <rdf:li
+              >reminder</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
