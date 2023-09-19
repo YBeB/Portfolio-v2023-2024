@@ -51,6 +51,56 @@ section {
 
 }
 
+.title-word {
+  animation: color-animation 4s linear infinite;
+}
+
+.title-word-1 {
+  --color-1: #e48b2e;
+  --color-2: #707d3e;
+  --color-3: #939367;
+}
+
+.title-word-2 {
+  --color-1: rgb(219, 167, 55);
+  --color-2: #ACCFCB;
+  --color-3: #a0a01f;
+}
+
+.title-word-3 {
+  --color-1: #98b9b6;
+  --color-2: #ee9c3e;
+  --color-3: #809ae4;
+}
+
+.title-word-4 {
+  --color-1: #3e8a4e;
+  --color-2: #DF8453;
+  --color-3: #d1cda7;
+}
+
+.title-page{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 8.5vw;
+  text-transform: uppercase;
+}
+@keyframes color-animation {
+  0%    {color: var(--color-1)}
+  32%   {color: var(--color-1)}
+  33%   {color: var(--color-2)}
+  65%   {color: var(--color-2)}
+  66%   {color: var(--color-3)}
+  99%   {color: var(--color-3)}
+  100%  {color: var(--color-1)}
+}
 
 
 @keyframes gradient {
