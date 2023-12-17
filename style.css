@@ -84,14 +84,33 @@ section {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  width: 100vw;
+
 }
 .title {
   font-family: "Montserrat", sans-serif;
   font-weight: 800;
-  font-size: 8.5vw;
+  font-size: 5.5vw;
   text-transform: uppercase;
 }
+
+.imga{
+width: 200px;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% ;
+  padding: 15px;
+}
+
+#about{height: 100vh;
+display:flex;
+align-items: center;
+justify-content: space-evenly;
+}
+.containerabout{
+width: 100vw;
+display: flex;
+justify-content: space-evenly;
+}
+
+
 @keyframes color-animation {
   0%    {color: var(--color-1)}
   32%   {color: var(--color-1)}
