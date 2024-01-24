@@ -119,8 +119,9 @@ section {
   border-radius: 10px;
   color: white;
   background-color: #d8c197;
-  margin: 0px 20px 0px 20px;
-  padding: 30px;
+  margin: 0px 20px 200px 20px;
+  padding: 20px;
+  padding-bottom: 10px;
   border-radius: 50px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   font-size: 18px;
@@ -233,7 +234,9 @@ section {
 .card{margin: 50px;
 border-radius: 10px;
 }
-.mobileView{display:contents;}
+.mobileView{display:contents;
+margin-top: 30px;
+
 .btn-primary{
 background-color: #DF8453;
 border: 0px;
