@@ -157,6 +157,7 @@ section {
   object-fit: cover;
 }
 .mobileView{display: none;}
+
 @keyframes color-animation {
   0% {
     color: var(--color-1)
@@ -232,6 +233,7 @@ section {
 .card{margin: 50px;
 border-radius: 10px;
 }
+.mobileView{display:contents;}
 .btn-primary{
 background-color: #DF8453;
 border: 0px;
