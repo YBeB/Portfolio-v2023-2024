@@ -237,9 +237,17 @@ border-radius: 10px;
 .mobileView{display:contents;
 margin-top: 30px;
 
+}
 .btn-primary{
 background-color: #DF8453;
 border: 0px;
 
 }
+.imga {
+  width: 200px;
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+  padding: 0px;
+  margin-top: 250px;
+}
+.containerabout{margin-top: 225px;}
 }
