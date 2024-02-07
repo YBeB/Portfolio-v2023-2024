@@ -156,8 +156,29 @@ section {
   height: 100vh;
   width: 100vh;
   object-fit: cover;
+
 }
-.mobileView{display: none;}
+
+.progress {
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.progress-bar {
+  background-color: orange;
+}
+
+.skillsContainer {
+  padding: 50px;
+}
+.html{display: flex;
+align-items: center;}
+.css{display: flex;
+align-items: center;
+}
+.mobileView {
+  display: none;
+}
 
 @keyframes color-animation {
   0% {
@@ -231,24 +252,35 @@ section {
   #carouselYou {
     display: none;
   }
-.card{margin: 10px;
-border-radius: 10px;
-}
 
-.btn-primary{
-background-color: #DF8453;
-border: 0px;
+  .card {
+    margin: 10px;
+    border-radius: 10px;
+  }
 
-}
-.imga {
-  width: 200px;
-  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
-  margin-top: 100%;
-
-}
-.containerabout{margin-bottom: 10px;}
-.mobileView{display:contents;
+  .btn-primary {
+    background-color: #DF8453;
+    border: 0px;
 
   }
-  .card{margin-top: 30vw;}
+
+  .imga {
+    width: 200px;
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+    margin-top: 100%;
+
+  }
+
+  .containerabout {
+    margin-bottom: 10px;
+  }
+
+  .mobileView {
+    display: contents;
+
+  }
+
+  .card {
+    margin-top: 30vw;
+  }
 }
