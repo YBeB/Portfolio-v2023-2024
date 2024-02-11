@@ -171,11 +171,12 @@ section {
 .skillsContainer {
   padding: 50px;
 }
-.html{display: flex;
-align-items: center;}
-.css{display: flex;
-align-items: center;
+
+.align-icon {
+  display: flex;
+  align-items: center;
 }
+
 .mobileView {
   display: none;
 }
@@ -272,7 +273,7 @@ align-items: center;
   }
 
   .containerabout {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
   }
 
   .mobileView {
@@ -281,6 +282,6 @@ align-items: center;
   }
 
   .card {
-    margin-top: 30vw;
+    margin-top: 0vw;
   }
 }
