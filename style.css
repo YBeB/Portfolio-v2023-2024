@@ -169,7 +169,7 @@ section {
 }
 
 .skillsContainer {
-  padding: 50px;
+  padding: 10px;
 }
 
 .align-icon {
@@ -177,9 +177,9 @@ section {
   align-items: center;
   justify-content: center;
   background-color: white;
-  padding:10px;
-  margin: 10px;
-  border-radius: 30px;
+  padding: 5px;
+  margin: 14px;
+  border-radius: 17px;
 }
 
 .skillsContainer {
@@ -190,6 +190,16 @@ section {
 .formcontact {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-input{
+  border:0px transparent;
+  display: flex;
+padding: 20px;
+width: 550px;
+margin: 20px;
 }
 .mobileView {
   display: none;
