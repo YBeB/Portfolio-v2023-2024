@@ -175,10 +175,13 @@ section {
 .align-icon {
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .skillsContainer{display: flex;
 justify-content: space-between;
 }
+
+
 .mobileView {
   display: none;
 }
