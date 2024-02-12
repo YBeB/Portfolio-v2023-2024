@@ -181,7 +181,8 @@ section {
 justify-content: space-between;
 }
 
-
+.formcontact{display: flex;
+flex-direction: column;}
 .mobileView {
   display: none;
 }
