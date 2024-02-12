@@ -176,13 +176,21 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.skillsContainer{display: flex;
-justify-content: space-between;
+  background-color: white;
+  padding:10px;
+  margin: 10px;
+  border-radius: 30px;
 }
 
-.formcontact{display: flex;
-flex-direction: column;}
+.skillsContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.formcontact {
+  display: flex;
+  flex-direction: column;
+}
 .mobileView {
   display: none;
 }
