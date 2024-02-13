@@ -197,9 +197,13 @@ section {
 .contact-input{
   border:0px transparent;
   display: flex;
-padding: 20px;
-width: 550px;
-margin: 20px;
+  padding: 20px;
+  width: 550px;
+  margin: 20px;
+  border-radius: 20px;
+   display: flex;
+   justify-content: center;
+
 }
 .mobileView {
   display: none;
@@ -308,4 +312,15 @@ margin: 20px;
   .card {
     margin-top: 0vw;
   }
+  section {
+    margin-bottom: 250px;
+  }
+  .skillsContainer {
+    display: flex;
+    flex-direction: column;
+}
+.contact-input{width: 100%;}
+.section {
+  height: none;
+}
 }
