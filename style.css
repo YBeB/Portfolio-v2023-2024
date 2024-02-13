@@ -205,6 +205,14 @@ section {
    justify-content: center;
 
 }
+.formlabel{ background:#98b9b6;
+padding :10px;
+border-radius: 20px;}
+.borderBottom{border-bottom: 5px solid orange;
+width: 20%;
+}
+
+
 .mobileView {
   display: none;
 }
