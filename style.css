@@ -194,24 +194,37 @@ section {
   align-items: center;
 }
 
-.contact-input{
-  border:0px transparent;
+.contact-input {
+  border: 0px transparent;
   display: flex;
   padding: 20px;
   width: 550px;
   margin: 20px;
   border-radius: 20px;
-   display: flex;
-   justify-content: center;
+  display: flex;
+  justify-content: center;
 
 }
-.formlabel{ background:#98b9b6;
-padding :10px;
-border-radius: 20px;}
-.borderBottom{border-bottom: 5px solid orange;
-width: 20%;
+
+.formlabel {
+  background: #707d3e;
+  padding: 10px;
+  border-radius: 20px;
 }
 
+.borderBottom {
+  border-bottom: 5px solid orange;
+  width: 20%;
+}
+.buttonSubmit{width: 150px;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+background-color: orange;
+color:#DFD2B9;
+border:0px transparent ;
+font-size: 20px;
+}
 
 .mobileView {
   display: none;
@@ -320,15 +333,24 @@ width: 20%;
   .card {
     margin-top: 0vw;
   }
+
   section {
     margin-bottom: 250px;
   }
+
   .skillsContainer {
     display: flex;
     flex-direction: column;
-}
-.contact-input{width: 100%;}
-.section {
-  height: none;
-}
+  }
+
+  .contact-input {
+    margin: 20px 0px 10px 0px;
+    width: 100%;
+  }
+
+  .section {
+    height: none;
+  }
+
+
 }
