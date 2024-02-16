@@ -101,7 +101,6 @@ section {
 }
 
 #about {
-  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -184,7 +183,7 @@ section {
 
 .skillsContainer {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .formcontact {
@@ -221,11 +220,12 @@ border-radius: 50px;
 display: flex;
 justify-content: center;
 background-color: orange;
-color:#DFD2B9;
+color:#dfd2b9;
 border:0px transparent ;
 font-size: 20px;
 }
-
+.buttonPosition{display: flex;
+justify-content: center;}
 .mobileView {
   display: none;
 }
@@ -317,7 +317,6 @@ font-size: 20px;
   .imga {
     width: 200px;
     border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
-    margin-top: 100%;
 
   }
 
@@ -331,11 +330,12 @@ font-size: 20px;
   }
 
   .card {
-    margin-top: 0vw;
+    margin-top: 30vw;
   }
 
   section {
-    margin-bottom: 250px;
+    margin-bottom: 150px;
+    height:initial;
   }
 
   .skillsContainer {
@@ -348,9 +348,6 @@ font-size: 20px;
     width: 100%;
   }
 
-  .section {
-    height: none;
-  }
-
+  
 
 }
