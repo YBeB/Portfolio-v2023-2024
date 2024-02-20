@@ -176,7 +176,7 @@ section {
   align-items: center;
   justify-content: center;
   background-color: white;
-  padding: 5px;
+  padding: 10px;
   margin: 14px;
   border-radius: 17px;
 }
@@ -189,8 +189,9 @@ section {
 .formcontact {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  justify-content: space-evenly;
+  height: 100vh
 }
 
 .contact-input {
@@ -207,7 +208,7 @@ section {
 
 .formlabel {
   background: #707d3e;
-  padding: 10px;
+  padding: 30px;
   border-radius: 20px;
 }
 
@@ -215,17 +216,22 @@ section {
   border-bottom: 5px solid orange;
   width: 20%;
 }
-.buttonSubmit{width: 150px;
-border-radius: 50px;
-display: flex;
-justify-content: center;
+
+.buttonSubmit {
+  width: 150px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
 background-color: orange;
-color:#dfd2b9;
-border:0px transparent ;
-font-size: 20px;
+  border: 0px transparent;
+  font-size: 20px;
 }
-.buttonPosition{display: flex;
-justify-content: center;}
+
+.buttonPosition {
+  display: flex;
+  justify-content: center;
+}
+textarea{height: 250px;}
 .mobileView {
   display: none;
 }
@@ -335,7 +341,7 @@ justify-content: center;}
 
   section {
     margin-bottom: 150px;
-    height:initial;
+    height: initial;
   }
 
   .skillsContainer {
@@ -348,6 +354,6 @@ justify-content: center;}
     width: 100%;
   }
 
-  
-
+  textarea{height: 125px;}
+.frontEnd{margin-bottom: 75px;}
 }
