@@ -237,9 +237,9 @@
           <div class="borderBottom"></div>
         </div>
         <div class="formlabel">
-          <form action="https://api.web3forms.com/submit" method="POST">
+          <form action="https://formspree.io/f/xovqqqjp" method="post">
 
-            <input type="hidden" name="access_key" value="88dcacb5-b227-4cab-b837-278071cbe9ea">
+   
 
             <input type="text" name="name" class="contact-input" placeholder="Nom" required>
 
@@ -248,14 +248,14 @@
 
             <textarea name="message" class="contact-input" placeholder="Message" required></textarea>
 
-            <div class="h-captcha" data-captcha="true"></div>
             <div class="buttonPosition">
-              <button type="submit" class="buttonSubmit">Envoyer</button>
+              <button class=" buttonSubmit g-recaptcha" data-sitekey="reCAPTCHA_site_key"
+              data-callback='onSubmit' data-action='submit'>Envoyer</button>
             </div>
 
           </form>
         </div>
-        <script src="https://web3forms.com/client/script.js" async defer></script>
+
       </div>
 
 
